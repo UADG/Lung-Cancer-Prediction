@@ -1,1 +1,1 @@
-# Lung-Cancer-Prediction
+Lung Cancer Prediction : https://huggingface.co/spaces/b1gdawg0/Miniproject
